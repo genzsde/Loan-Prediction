@@ -38,7 +38,7 @@ The Naive Bayes algorithm is based on Bayes' Theorem and assumes that the presen
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 614 entries, 0 to 613
 Data columns (total 13 columns):
- #   Column             Non-Null Count  Dtype  
+     Column             Non-Null Count  Dtype  
 ---  ------             --------------  -----  
  0   Loan_ID            614 non-null    object 
  1   Gender             601 non-null    object 
