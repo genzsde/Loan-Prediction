@@ -34,7 +34,9 @@ The Naive Bayes algorithm is based on Bayes' Theorem and assumes that the presen
 - Performs well in multi-class prediction.
 - Particularly effective for large datasets.
 
-### DataSet Train - 
+## DataSet Train
+
+```plaintext
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 614 entries, 0 to 613
 Data columns (total 13 columns):
@@ -55,9 +57,11 @@ Data columns (total 13 columns):
  12  Loan_Status        614 non-null    object 
 dtypes: float64(4), int64(1), object(8)
 memory usage: 62.5+ KB
+```
 
-### DataSet Test - 
+## DataSet Test
 
+```plaintext
 Loan_ID              
 Gender               
 Married              
@@ -71,7 +75,7 @@ Loan_Amount_Term
 Credit_History       
 Property_Area        
 dtype: int64
-
+```
 
 ## Conclusion
 
